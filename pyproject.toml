@@ -43,7 +43,7 @@ dependencies = [
   "asyncpg>=0.30.0,<1",
   "fastapi>=0.115.0,<1",
   "pydantic-settings>=2.7.0,<3",
-  "stripe>=15.0.0,<16",
+  "stripe>=15.0.0,<17",
   "uvicorn[standard]>=0.34.0,<1",
 ]
 
